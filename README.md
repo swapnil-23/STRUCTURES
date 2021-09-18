@@ -1,2 +1,2 @@
 # STRUCTURES
-Making a student database without using pointers
+Making a student database using pointers
